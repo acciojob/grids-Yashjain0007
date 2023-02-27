@@ -1,2 +1,29 @@
-
 /* Your CSS Code here. */
+.row {
+  height: 200px;
+}
+.container {
+  background: lightpink;
+  border: 5px solid lightgreen;
+}
+.green {
+  background: rgb(0, 128, 129);
+}
+.pink {
+  background: rgb(215, 191, 215);
+}
+.dark {
+  background: rgb(41, 0, 0);
+}
+.idk {
+  background: rgb(63, 224, 208);
+}
+.orange {
+  background: rgb(254, 99, 71);
+}
+.violet {
+  background-color: rgb(238, 130, 239);
+}
+.lightgreen {
+  background-color: rgb(154, 205, 50);
+}
